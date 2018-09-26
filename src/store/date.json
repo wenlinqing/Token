@@ -1,0 +1,50 @@
+[
+	{
+		"icon":"pro.jpg",
+		"coinName":"ETH",
+		"coinText":"Ethereum",
+		"adress":"0x0D8775s5d656sdf23dfs650d2887EF",
+		"isDefault":true,
+		"price":0
+	},
+	{
+		"icon":"pro.jpg",
+		"coinName":"BAT",
+		"coinText":"Basic Attention Token",
+		"adress":"fsadfa5s5d656sdfwedfs650dweffF",
+		"isDefault":false,
+		"price":0	
+	},
+	{
+		"icon":"pro.jpg",
+		"coinName":"BNT",
+		"coinText":"Bancor Network Token",
+		"adress":"0sdfsd8775s5d6ghfgdss650d28sdfsdfa",
+		"isDefault":false,
+		"price":0
+	},
+	{
+		"icon":"pro.jpg",
+		"coinName":"MANA",
+		"coinText":"Decentraland MANA",
+		"adress":"fjhhjgh8775s5d65s650d2wersd2632",
+		"isDefault":false,
+		"price":0
+	},
+	{
+		"icon":"pro.jpg",
+		"coinName":"DPY",
+		"coinText":"Delhpy Token",
+		"adress":"452hjkh8775ge50d2wersrg",
+		"isDefault":false,
+		"price":0
+	},
+	{
+		"icon":"pro.jpg",
+		"coinName":"EOS",
+		"coinText":"",
+		"adress":"jjfgnbh8775s5d65s650rsdujygh2",
+		"isDefault":false,
+		"price":0
+	}
+]
